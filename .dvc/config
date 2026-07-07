@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://dvckrishnabucket/dvc-store
+    region = us-east-1
